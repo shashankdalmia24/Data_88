@@ -1,1 +1,3 @@
 # Data_88
+This is material that I have personally created for the UC Berkeley Class [Data 88](https://classes.berkeley.edu/content/2020-spring-data-88-003-sem-003). I also co-teach this class in a team of 7 people and have helped review and test some of the other material taught in the course.
+The content shown here is from the [Fall 2019](https://d8a-88.github.io/econ-fa19/) offering of the course. The Spring 2020 version can be found [here](https://ds-connectors.github.io/econ-sp20/).
